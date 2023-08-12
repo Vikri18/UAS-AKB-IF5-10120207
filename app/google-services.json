@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1071908950840",
+    "project_id": "note-app-with-login",
+    "storage_bucket": "note-app-with-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071908950840:android:6a73e5fd92d0c3a59c67cd",
+        "android_client_info": {
+          "package_name": "com.thisvyx.diaryappwithlogin_10120207"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071908950840-behvrlkv923ktgbmfunacgb571n9ebqs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thisvyx.diaryappwithlogin_10120207",
+            "certificate_hash": "6bf881d7b13ade0a7fe25d515ccc4fa95953fcea"
+          }
+        },
+        {
+          "client_id": "1071908950840-5784t191gmv7gsqtp8cl0j2d3nbmhv2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTmq-eTNUhShfTCSIwNhpE6XEXtdWI64Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071908950840-5784t191gmv7gsqtp8cl0j2d3nbmhv2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
